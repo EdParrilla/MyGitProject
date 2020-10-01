@@ -1,3 +1,2 @@
 adding context to f1.txt
 second line to f1.txt
-echo adding third line to f1.txt
